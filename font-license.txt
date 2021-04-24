@@ -1,6 +1,0 @@
-Item ID:                         7WD4BSN
-Author Username:                 peterdraw
-Licensee:                        Azat Yaakov
-Registered Project Name:         UniSat
-License Date:                    April 24th, 2021
-Item License Code:               JWF4HSX2RL
